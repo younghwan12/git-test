@@ -15,6 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>dev 기능개발</main>
+      <div>dev 2</div>
     </>
   )
 }
