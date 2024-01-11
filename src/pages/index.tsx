@@ -14,7 +14,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>dev 작업중<div>긴급작업2</div></main>
+      <main>dev 기능개발</main>
     </>
   )
 }
