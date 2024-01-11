@@ -16,6 +16,8 @@ export default function Home() {
       </Head>
       <main>dev 기능개발</main>
       <div>dev 2</div>
+      <div>dev 3</div>
+      <div>dev 4</div>
     </>
   )
 }
